@@ -18,15 +18,15 @@ export default function Intro() {
       <div className="flex text-base sm:text-xl">
         <div className="flex m-1 sm:m-4 justify-center items-center">
           <IoLocationOutline className="mx-2" />
-          <span>Hong Kong</span>
+          <span className="text-xs sm:text-lg">Hong Kong</span>
         </div>
         <div className="flex m-1 sm:m-4 justify-center items-center">
           <IoCalendarClearOutline className="mx-2" />
-          <span>31 Years</span>
+          <span className="text-xs sm:text-lg">31 Years</span>
         </div>
         <div className="flex m-1 sm:m-4 justify-center items-center">
           <IoSchoolOutline className="mx-2" />
-          <span>Bachelor of Commerce</span>
+          <span className="text-xs sm:text-lg">Bachelor of Commerce</span>
         </div>
       </div>
       <a href={resume} download="Michael's resume" target="_blank">

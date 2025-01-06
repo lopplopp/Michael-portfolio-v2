@@ -4,7 +4,7 @@ import { MdOutlineLightMode, MdOutlineDarkMode } from "react-icons/md";
 
 export default function Header({ toggleDark, mode }) {
   return (
-    <div className="flex bg-white dark:bg-gray-700 z-20 shadow-sm justify-between items-center px-5 py-4 fixed top-0 left-0 right-0 ">
+    <div className="flex fixed left-0 px-9 w-screen bg-white dark:bg-gray-700 z-20 shadow-sm justify-between items-center py-4 ">
       <div className="group z-10">
         <div className="rounded-full p-2 transition-all duration-100 w-fit hover:bg-gray-300">
           <FaBars size={"20px"} />
