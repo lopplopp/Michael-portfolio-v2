@@ -31,7 +31,7 @@ export default function Tools() {
           <VscTools className="mx-2" />
           <span>Tools</span>
         </div>
-        <div class="flex justify-between">
+        <div class="flex justify-between flex-wrap">
           <div className="flex m-5 items-center">
             <FaHtml5 className="mx-2" />
             <p>HTML5</p>
