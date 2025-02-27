@@ -17,7 +17,7 @@ export default function About() {
           based in Hong Kong. My interest in technology began during my
           university years in Toronto, where I majored in Information
           Technology. Although I initially pursued a different career path after
-          graduation, my passion for web development was reignited in 2023 when
+          graduation, my passion for web development was reignited in 2024 when
           I returned to Hong Kong. Since then, I’ve been dedicated to
           self-learning through The Odin Project and building personal projects.
           Today, I’ve equipped myself with essential skills and have created
@@ -46,9 +46,9 @@ export default function About() {
         </div>
         <div className="px-6 mx-9 border-l-2 relative">
           <div className="h-3 w-3 dark:bg-gray-200 bg-black rounded-full top-1.5 -left-[7px] absolute"></div>
-          <span className="text-sm font-thin">May 2021 - Jun 2023</span>
+          <span className="text-sm font-thin">May 2021 - Feb 2024</span>
           <p className="text-lg font-bold">
-            Sales Administrator & Logistics Specialist,{" "}
+            Logistics Specialist & Sales Administrator,{" "}
             <span className="text-base font-semibold">
               Orientek Scaffolding
             </span>
