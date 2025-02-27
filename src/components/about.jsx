@@ -29,7 +29,7 @@ export default function About() {
         <div id="education" className="pt-20 flex text-xl font-semibold m-5 items-center">
           <IoSchoolOutline className="mx-2" />
           <span>Education</span>
-        </div> 
+        </div>   
         <div className="px-6 mx-9 border-l-2 relative">
           <div className="h-3 w-3 dark:bg-gray-200 bg-black rounded-full top-1.5 -left-[7px] absolute"></div>
           <span className="text-sm font-thin">2011-2017</span>
