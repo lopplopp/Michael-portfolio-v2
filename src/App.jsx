@@ -7,7 +7,7 @@ import Tools from './components/tools';
 import Footer from './components/footer';
 
 function App() {
-  const[dark, setDark] = useState('light')
+  const[dark, setDark] = useState('dark')
 
   function toggleDark(){
     setDark(dark === 'dark'?'light':'dark');
